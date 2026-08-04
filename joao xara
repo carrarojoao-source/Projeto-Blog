@@ -1,0 +1,251 @@
+agrinho-fauna/
+│── index.html
+│── style.css
+│── fauna.jpg<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrinho - Fauna Brasileira</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Agrinho 2026</h1>
+    <p>Fauna Brasileira: Nossa riqueza natural</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#animais">Animais</a>
+    <a href="#preservacao">Preservação</a>
+</nav>
+
+<section class="banner">
+    <img src="fauna.jpg" alt="Fauna Brasileira">
+</section>
+
+<section id="sobre">
+    <h2>Sobre a Fauna Brasileira</h2>
+    <p>
+        O Brasil possui uma das maiores biodiversidades do planeta.
+        Nossa fauna é formada por milhares de espécies de mamíferos,
+        aves, peixes, répteis e anfíbios que vivem em diferentes biomas,
+        como Amazônia, Cerrado, Pantanal, Mata Atlântica, Caatinga e Pampa.
+    </p>
+</section>
+
+<section id="animais">
+    <h2>Animais em Destaque</h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>🐆 Onça-pintada</h3>
+            <p>Maior felino das Américas e símbolo da fauna brasileira.</p>
+        </div>
+
+        <div class="card">
+            <h3>🦜 Arara-azul</h3>
+            <p>Ave conhecida por sua beleza e importância para a natureza.</p>
+        </div>
+
+        <div class="card">
+            <h3>🐺 Lobo-guará</h3>
+            <p>Animal típico do Cerrado e importante para a dispersão de sementes.</p>
+        </div>
+
+    </div>
+</section>
+
+<section id="preservacao">
+    <h2>Como Preservar?</h2>
+
+    <ul>
+        <li>Não praticar caça ilegal.</li>
+        <li>Preservar florestas e rios.</li>
+        <li>Evitar queimadas.</li>
+        <li>Denunciar crimes ambientais.</li>
+        <li>Valorizar a educação ambiental.</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Projeto Agrinho 2026 | Fauna Brasileira</p>
+</footer>
+
+</body>
+</html>*{
+    margin:0;asileira: Nossa riqueza natural</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#animais">Animais</a>
+    <a href="#preservacao">Preservação</a>
+</nav>
+
+<section class="banner">
+    <img src="fauna.jpg" alt="Fauna Brasileira">
+</section>
+
+<section id="sobre">
+    <h2>Sobre a Fauna Brasileira</h2>
+    <p>
+        O Brasil possui uma das maiores biodiversidades do planeta.
+        Nossa fauna é formada por milhares de espécies de mamíferos,
+        aves, peixes, répteis e anfíbios que vivem em diferentes biomas,
+        como Amazônia, Cerrado, Pantanal, Mata Atlântica, Caatinga e Pampa.
+    </p>asileira: Nossa riqueza natural</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#animais">Animais</a>
+    <a href="#preservacao">Preservação</a>
+</nav>
+
+<section class="banner">
+    <img src="fauna.jpg" alt="Fauna Brasileira">
+</section>
+
+<section id="sobre">
+    <h2>Sobre a Fauna Brasileira</h2>
+    <p>
+        O Brasil possui uma das maiores biodiversidades do planeta.
+        Nossa fauna é formada por milhares de espécies de mamíferos,
+        aves, peixes, répteis e anfíbios que vivem em diferentes biomas,
+        como Amazônia, Cerrado, Pantanal, Mata Atlântica, Caatinga e Pampa.
+    </p>
+
+
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    color:#333;
+}
+
+header{
+    background:#2e8b57;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+nav{
+    background:#1d5c3a;
+    text-align:center;
+    padding:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:yellow;
+}asileira: Nossa riqueza natural</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#animais">Animais</a>
+    <a href="#preservacao">Preservação</a>
+</nav>
+
+<section class="banner">
+    <img src="fauna.jpg" alt="Fauna Brasileira">
+</section>
+
+<section id="sobre">
+    <h2>Sobre a Fauna Brasileira</h2>
+    <p>
+        O Brasil possui uma das maiores biodiversidades do planeta.
+        Nossa fauna é formada por milhares de espécies de mamíferos,
+        aves, peixes, répteis e anfíbios que vivem em diferentes biomas,
+        como Amazônia, Cerrado, Pantanal, Mata Atlântica, Caatinga e Pampa.
+    </p>
+
+
+.banner img{
+    width:100%;
+    height:400px;
+    object-fit:cover;
+}
+
+section{
+    max-width:1000px;asileira: Nossa riqueza natural</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#animais">Animais</a>
+    <a href="#preservacao">Preservação</a>
+</nav>
+
+<section class="banner">
+    <img src="fauna.jpg" alt="Fauna Brasileira">
+</section>
+
+<section id="sobre">
+    <h2>Sobre a Fauna Brasileira</h2>
+    <p>
+        O Brasil possui uma das maiores biodiversidades do planeta.
+        Nossa fauna é formada por milhares de espécies de mamíferos,
+        aves, peixes, répteis e anfíbios que vivem em diferentes biomas,
+        como Amazônia, Cerrado, Pantanal, Mata Atlântica, Caatinga e Pampa.
+    </p>
+
+    margin:auto;
+    padding:40px;
+}
+
+h2{
+    color:#2e8b57;
+    margin-bottom:20px;
+}
+
+.cards{
+    display:flex;
+    gap:20px;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.card{
+    background:white;
+    width:280px;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+    text-align:center;
+}
+
+.card:hover{
+    transform:scale(1.05);
+    transition:0.3s;
+}
+
+ul{
+    margin-left:20px;
+}
+
+li{
+    margin:10px 0;
+}
+
+footer{
+    background:#2e8b57;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
